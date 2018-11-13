@@ -1,4 +1,4 @@
-# Linear Regression: Predicting Numeric Values
+# Linear Regression: Finding best-fit line free from underfitting with Linear Weighted Linear Regression(LWLR)
 
 Regression is a kind of supervised learning where we have a target variable or somthing we want to predict. Linear Regression is used to find a linear relationship between the target and one or more predictors.
 
