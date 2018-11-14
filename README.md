@@ -4,7 +4,7 @@ Regression is a kind of supervised learning where we have a target variable or s
 
 Here, we build a standard regression function to create a best-fit line. We will be working with the data found in `data/ex0.txt`.
 
-You can find a walkthrough on my blog
+You can find a walkthrough on [my blog](https://itnext.io/linear-regression-how-to-overcome-underfitting-with-locally-weight-linear-regression-lwlr-e867f0cde4a4)
 
 ## Requirements
 - [Python v3.6](https://www.python.org/)
